@@ -1,6 +1,7 @@
 @regression
 Feature: create a Buzz Post as an Employee
 
+  @createBuzz
   Scenario: employee creates a Buzz post with text and optional media
     Given the employee is logged in with valid credentials
     When the employee navigates to the Buzz from the main menu
