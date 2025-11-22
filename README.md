@@ -2,8 +2,8 @@
 
 tools 
   -Java 
-  -selenium 4.38.0
-  -cucumber 7.31.0
+  -selenium 
+  -cucumber
   -chromeDriver 
   -surefire pluggin to generate report
 
