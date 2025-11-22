@@ -21,5 +21,8 @@ or
 -download maven dependencies
 -open the test runner
 -right click "run Runner"
+
+can you watch the vedio showing test execution with the link
+https://drive.google.com/file/d/1Hy_SeqkvBx0uDAvy2c7WZGtYYYI819m3/view?usp=drive_link
  
 
